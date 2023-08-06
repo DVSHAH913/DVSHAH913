@@ -10,4 +10,4 @@
 - ✨Explore my project repository, a testament to my prowess as a data analyst. From C, JAVA, Python, SQL, and Machine Learning to front-end development and data visualization with Tableau and Power BI, these projects reflect my diverse skills and dedication to turning data into actionable insights.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdv94@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/dv-shah)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dv-shah)
