@@ -7,7 +7,7 @@
 
 - ✨I have completed comprehensive online courses on Coursera and Udemy covering Python for Data Science, Tableau, SQL, Data Structures, Web Development (HTML/CSS, JavaScript), Flask, Exploratory Data Analysis with Python, and SAS fundamentals. My university studies included subjects like Probability Theory and  Stochastic Processes, SQL Oracle, Data Structures in C, and Design and Analysis of Algorithms.
 
-- ✨Explore my project repository, a testament to my prowess as a data analyst. From C, JAVA, Python, SQL, and Machine Learning to front-end development and data visualization with Tableau and Power BI, these projects reflect my diverse skills and dedication to turning data into actionable insights.
+- ✨Explore my project repository, a testament to my prowess as a data analyst. From C, Python, SQL, and Machine Learning to front-end development and data visualization with Tableau and Power BI, these projects reflect my diverse skills and dedication to turning data into actionable insights.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdv94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dv-shah-a98517242)
