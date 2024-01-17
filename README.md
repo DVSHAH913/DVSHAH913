@@ -1,13 +1,18 @@
 # Hi there 👋, I am DV SHAH
 
-- 🤗 I am Devshree Vitesh Shah, currently completing my 2nd year of B.Tech at LJK University. As part of a unique degree program tailored for students with a practical aptitude, I am immersed in a specialized cohort. This approach combines rigorous academic study for the initial two years with two subsequent years of immersive internships or placements.
+✨Currently a 3rd-year engineering student, I'm passionate about diving into data and extracting insights that solve real-world problems. My journey started with self-learning SAS, leading me to become a certified 
+  SAS Programmer and landed a Data Analyst Intern role at Pharma-STATs.
 
-- 🔭 I’m currently working on Python, SQL, Tableau, SAS, and Power BI.
-- 🌱 I’m currently learning R, SAS advanced programming, cloud computing, and computer vision. 
+✨My toolbox:
+  -Languages: Python (comfortable), SQL (fluent), SAS (expert), JavaScript (intermediate)
+  -Skills: Data analysis, statistical analysis, machine learning fundamentals, data visualization (Tableau, Power BI)
+  -Learning: R, advanced SAS programming, advanced statistics analysis, cloud computing, computer vision
 
-- ✨I have completed comprehensive online courses on Coursera and Udemy covering Python for Data Science, Tableau, SQL, Data Structures, Web Development (HTML/CSS, JavaScript), Flask, Exploratory Data Analysis with Python, and SAS fundamentals. My university studies included subjects like Probability Theory and  Stochastic Processes, SQL Oracle, Data Structures in C, and Design and Analysis of Algorithms.
+✨Past projects:
+ -Explore my repository to discover diverse projects where I leverage Python, SAS, SQL, and even front-end development for data wrangling, analysis, and visualization. Witness my evolution as a data enthusiast!
+ -Check out my "certificates" repository for a snapshot of my achievements in programming, algorithms, data analysis, and more.
 
-- ✨Explore my project repository, a testament to my prowess as a data analyst. From C, Python, SQL, and Machine Learning to front-end development and data visualization with Tableau and Power BI, these projects reflect my diverse skills and dedication to turning data into actionable insights.
+ Let's connect! and learn & collaborate.
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdv94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dv-shah-a98517242)
