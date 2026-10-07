@@ -7,7 +7,7 @@ I'm an **MSc Artificial Intelligence student at Queen Mary University of London 
 
 My interests sit at the intersection of **Artificial Intelligence and financial markets** — particularly machine learning, NLP, reinforcement learning, intelligent agents and explainable AI for financial decision-making.
 
-Before starting my MSc, I worked on production financial software for Indian equity markets. As the sole developer of **AlphaRise**, I built and deployed an equity-analysis platform used by **120 active traders**, including a custom Python technical-analysis library with 15+ indicators, market-data processing, automated technical-analysis reports and live financial-news aggregation across 17+ sources.
+Before starting my MSc, I worked on production financial software for Indian equity markets. As the sole developer of **AlphaRise**, I built and deployed an equity-analysis platform used including a custom Python technical-analysis library with 15+ indicators, market-data processing, automated technical-analysis reports and live financial-news aggregation across 17+ sources.
 
 I'm now building on that engineering foundation with deeper work in AI and machine learning.
 
